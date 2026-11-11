@@ -10,5 +10,3 @@ How fresh is the web your AI reads? Live data, explained plainly.
 ```bash
 npx @livewebdata-com/cli fetch https://example.com -o text
 ```
-
-A [Teneo Labs](https://livewebdata.com/imprint) project.
